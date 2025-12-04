@@ -1,5 +1,3 @@
-DATASET AVAILABILITY
-
 This project relies on two publicly available datasets for training and evaluation.
 Some of the datasets are not included in this repository due to size.
 
